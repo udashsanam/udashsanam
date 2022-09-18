@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udashsanam" alt="udashsanam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/udash.sanam" target="blank"><img src="[https://img.shields.io/twitter/follow/udashsanam?logo=instagram&style=for-the-badge](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" alt="udashsanam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/udashsanam" target="blank"><img src="https://img.shields.io/twitter/follow/udashsanam?logo=twitter&style=for-the-badge" alt="udashsanam" /></a> </p>
 
 - 🔭 I’m currently working on [To-do App](https://github.com/udashsanam/todo-v1.0)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **udashsanam@gmail.com**
 
-- Place to know about me [sanam.udash.com.np](sanam.udash.com.np)
+- Place know about me [sanam.udash.com.np](sanam.udash.com.np)
 
 - ⚡ Fun fact **My English is funny**
 
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/udashsanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udashsanam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanam-udash-99b125178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanam-udash-99b125178" height="30" width="40" /></a>
-<a href="https://instagram.com/udash.sanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udashsanam" height="30" width="40" /></a>
+<a href="https://instagram.com/udashsanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udashsanam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
