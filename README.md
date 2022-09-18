@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udashsanam" alt="udashsanam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/udash.sanam" target="blank"><img src="https://img.shields.io/twitter/follow/udashsanam?logo=instagram&style=for-the-badge" alt="udashsanam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/udash.sanam" target="blank"><img src="[https://img.shields.io/twitter/follow/udashsanam?logo=instagram&style=for-the-badge](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" alt="udashsanam" /></a> </p>
 
 - 🔭 I’m currently working on [To-do App](https://github.com/udashsanam/todo-v1.0)
 
