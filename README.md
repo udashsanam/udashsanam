@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [To-do App](https://github.com/udashsanam/todo-v1.0)
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **Angular JS**
 
 - 👯 I’m Currently Studying **Bsc CSIT**
 
